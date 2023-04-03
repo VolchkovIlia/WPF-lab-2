@@ -1,0 +1,21 @@
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\bin\Debug\net7.0-windows\WPF lab-2.exe
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\bin\Debug\net7.0-windows\WPF lab-2.deps.json
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\bin\Debug\net7.0-windows\WPF lab-2.runtimeconfig.json
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\bin\Debug\net7.0-windows\WPF lab-2.dll
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\bin\Debug\net7.0-windows\WPF lab-2.pdb
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\obj\Debug\net7.0-windows\WPF lab-2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\obj\Debug\net7.0-windows\WPF lab-2_MarkupCompile.cache
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\obj\Debug\net7.0-windows\WPF lab-2_MarkupCompile.lref
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\obj\Debug\net7.0-windows\WPF lab-2.g.resources
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\obj\Debug\net7.0-windows\WPF lab-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\obj\Debug\net7.0-windows\WPF lab-2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\obj\Debug\net7.0-windows\WPF lab-2.AssemblyInfo.cs
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\obj\Debug\net7.0-windows\WPF lab-2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\obj\Debug\net7.0-windows\WPF lab-2.dll
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\obj\Debug\net7.0-windows\refint\WPF lab-2.dll
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\obj\Debug\net7.0-windows\WPF lab-2.pdb
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\obj\Debug\net7.0-windows\WPF lab-2.genruntimeconfig.cache
+C:\Users\User\source\repos\WPF lab-2\WPF lab-2\obj\Debug\net7.0-windows\ref\WPF lab-2.dll
